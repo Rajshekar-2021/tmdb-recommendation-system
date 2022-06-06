@@ -6,7 +6,7 @@ This repository has content based movie recommendation  system
 
 
 <iframe
-  src="[https://codepen.io/team/codepen/embed/preview/PNaGbb](https://share.streamlit.io/rajshekar-2021/tmdb-recommendation-system/main/tmdb-app-final.py"
+  src="[https://share.streamlit.io/rajshekar-2021/tmdb-recommendation-system/main/tmdb-app-final.py]"
   style="width:100%; height:300px;"
 ></iframe>
 
