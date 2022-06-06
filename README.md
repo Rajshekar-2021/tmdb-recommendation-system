@@ -29,6 +29,5 @@ This repository has content based movie recommendation  system
 [click here to see the Demo app - streamlit](https://share.streamlit.io/rajshekar-2021/tmdb-recommendation-system/main/tmdb-app-final.py)
 
 
-
-![](https://github.com/Rajshekar-2021/tmdb-recommendation-system#:~:text=1%20hour%20ago-,Demo%20Screen%20Shot.png,-Create%20Demo%20Screen)
+![](https://github.com/Rajshekar-2021/tmdb-recommendation-system/blob/main/Demo%20Screen%20Shot.png)
 
