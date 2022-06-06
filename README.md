@@ -8,7 +8,9 @@ This repository has content based movie recommendation  system
 
 - We have extracted the Original Dataset from TMDB - Website using API's 
 - The below `features` were collected :
-         Movie_id, Title, Keywords, Genre, Top 5 popular cast based on Popularity, Director and the Overview
+         
+         `Movie_id`, `Title`, `Keywords`, `Genre`, `Top 5 popular cast based on Popularity`, `Director` and the `Overview`
+         
 - The features are cleaned for extra spaces, special charecters, and converted into lower case charecters
 - Created a new column `tags` with all the charecters in different features
 - By using NLP Techniques:
